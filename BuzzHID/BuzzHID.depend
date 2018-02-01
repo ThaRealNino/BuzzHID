@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517515628 source:c:\users\nikol\documents\c++\hid\buzzhid\main.cpp
+	<stdio.h>
+	<iostream>
+	"hidapi.h"
+	"stdlib.h"
+	<windows.h>
+	"stdbool.h"
+
+1517509002 c:\users\nikol\documents\c++\hid\buzzhid\hidapi.h
+	<wchar.h>
+
